@@ -7,7 +7,7 @@
         android:layout_width="match_parent"
         android:layout_height="115dp"
         android:padding="16dp"
-        android:text="@string/quiz_results"
+        android:text="quiz_results"
         android:textSize="24sp"
         android:textStyle="bold" />
 

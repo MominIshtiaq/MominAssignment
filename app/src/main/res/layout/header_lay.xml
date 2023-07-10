@@ -8,10 +8,17 @@
     android:layout_height="220dp">
 
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        android:contentDescription="Header Icon"/>
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/res_name"
+        android:text="Application"
         android:textSize="40sp"
         android:textStyle="bold" />
 
